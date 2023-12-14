@@ -65,7 +65,54 @@ npm run dev
 npm run prod
 ```
 
-5. Due to, time is limited. Thus, I could not implement success as you mentioned
+ຸ5. Path to test api docs
+
+- Get all player
+
+```bash
+GET method: /api/player
+```
+
+- Get player by id
+
+```bash
+GET method: /api/player/12
+```
+
+- Register player
+
+```bash
+POST method: /api/player
+Body request:
+{
+    "name":"player-3",
+    "password":"abcdt12349",
+    "phoneNumber":"58889999"
+}
+```
+
+- Wallet deposit
+
+```bash
+PUT method: /api/player/deposit/12
+- Body request:
+{
+    "amount":1000
+}
+```
+
+- Wallet withdraw
+
+```bash
+PUT method: /api/player/withdraw/:12
+- Body request:
+{
+    "amount":1000
+}
+
+```
+
+6. Due to, time is limited. Thus, I could not implement success as you mentioned
 
 ```bash
 Thank you !!!
