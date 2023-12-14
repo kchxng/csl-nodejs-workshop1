@@ -65,7 +65,7 @@ npm run dev
 npm run prod
 ```
 
-5. Due to, time is limited. Thus, I could not implement as success as you mentioned
+5. Due to, time is limited. Thus, I could not implement success as you mentioned
 
 ```bash
 Thank you !!!
