@@ -111,11 +111,3 @@ PUT method: /api/player/withdraw/:12
 }
 
 ```
-
-6. Due to, time is limited. Thus, I could not implement success as you mentioned
-
-```bash
-Thank you !!!
-
-Best regards,
-```
