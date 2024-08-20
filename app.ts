@@ -7,7 +7,7 @@ import conn from "./config/db.config";
 import { router } from "./routes/appRouter";
 
 /*************************************************************/
-// Desc: Server Application
+// Desc: Server Application Configuration
 /*************************************************************/
 export class App {
   public readonly app: Application;
